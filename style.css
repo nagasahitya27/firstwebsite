@@ -1,0 +1,53 @@
+.carousel-indicators li{
+	background-color:red!important;
+}
+.carousel-indicators{
+	left:188px!important;
+	justify-content:end!important;
+}
+#about .border{
+	height:5px;
+	width:100px;
+}
+#about .style{
+	height:100px;
+	width:100px;
+	border-radius:50%;
+	position:relative;
+	background:red;
+	margin:auto;
+}
+#about .style i{
+	position:absolute;
+	top:50%;
+	left:50%;
+	transform:translate(-50%,-50%);
+	font-size:30px;
+}
+#testimonial .border{
+	height:5px;
+	width:100px;
+}
+#news .border{
+	height:5px;
+	width:100px;
+}
+#news .post{
+	position:absolute;
+	top:10px;
+	right:20px;
+}
+#news .blog{
+	position:relative;
+}
+#news .post1{
+	position:absolute;
+	top:10px;
+	left:20px;
+}
+#contact .jumbotron{
+	background-color:red;
+}
+footer{
+	background:black;
+}
